@@ -1,5 +1,8 @@
-.App {
+.container-fluid {
   text-align: center;
+  background-color: white;
+  min-width: 100%;
+  min-height: 100vh;
 }
 
 .App-logo {
@@ -36,3 +39,29 @@
     transform: rotate(360deg);
   }
 }
+
+.navBarStyle {
+  background-color:white;
+}
+
+.navLinks {
+  color: black !important;
+}
+
+.cardStyle {
+  color: #FFC233;
+}
+
+.titles {
+  font-size: 27px !important;
+}
+
+.text {
+  font-size: 20px !important;
+}
+
+.contactImages {
+  width: 150px;
+  height: 300px;
+}
+
